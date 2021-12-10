@@ -6,7 +6,7 @@ marp: true
 ![bg](rgb(0,0,0))
 
 ---
-<!-- backgroundColor: #f7f7f7 -->
+
 ![bg left contain](images/articoli_dark_bottoni_non_visibili.jpeg)
 
 # Bottoni non visibili in dark mode
